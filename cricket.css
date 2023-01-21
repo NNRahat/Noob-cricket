@@ -26,5 +26,5 @@ header{
     position: relative;
     left: 267px;
     top:-110px;
-    transition: transform 1s ease-out 0.1s ;
+    transition: transform 1s ease-out 0.12s ;
 }
